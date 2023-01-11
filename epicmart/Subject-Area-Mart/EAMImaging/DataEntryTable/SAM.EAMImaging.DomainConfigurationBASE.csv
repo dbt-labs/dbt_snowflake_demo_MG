@@ -1,0 +1,54 @@
+"ID","DataEntryDTS","DataEntryUserNM","ConfigurationItemDSC","ConfigurationColumnNM","ConfigurationValueTXT","ConfigurationMappedValueTXT","ConfigurationValueDSC"
+54,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Reporting Period Start",,"20171001 00:00",,"Start"
+55,"2022-12-15 13:23:23.0000000","PARTNERS\kg312","Exclude Non-Templated Machine","ProviderID",,,"This machine should not contribute to slot utilization metrics"
+56,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","8",,"Primetime is a combination of hour and day of week."
+57,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","9",,"Primetime is a combination of hour and day of week."
+58,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","10",,"Primetime is a combination of hour and day of week."
+59,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","11",,"Primetime is a combination of hour and day of week."
+60,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","12",,"Primetime is a combination of hour and day of week."
+61,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","13",,"Primetime is a combination of hour and day of week."
+62,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","14",,"Primetime is a combination of hour and day of week."
+63,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","15",,"Primetime is a combination of hour and day of week."
+64,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","16",,"Primetime is a combination of hour and day of week."
+65,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Hour","HourNBR","17",,"Primetime is a combination of hour and day of week."
+66,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Day","WeekDayNBR","2",,"Primetime is a combination of hour and day of week."
+67,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Day","WeekDayNBR","3",,"Primetime is a combination of hour and day of week."
+68,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Day","WeekDayNBR","4",,"Primetime is a combination of hour and day of week."
+69,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Day","WeekDayNBR","5",,"Primetime is a combination of hour and day of week."
+70,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Primetime Day","WeekDayNBR","6",,"Primetime is a combination of hour and day of week."
+71,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Utilized Encounter Lab Status","EncounterLabStatusCD","1",,"The In-Process status of an order suggests that the slot is utilized"
+72,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Utilized Encounter Lab Status","EncounterLabStatusCD","2",,"The Preliminary result status of an order suggests that the slot is utilized"
+73,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Utilized Encounter Lab Status","EncounterLabStatusCD","3",,"The Final Result status of an order suggests that the slot is utilized"
+74,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Utilized Encounter Lab Status","EncounterLabStatusCD","4",,"The Edited status of an order suggests that the slot is utilized"
+75,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Utilized Encounter Lab Status","EncounterLabStatusCD","5",,"The Edited Result - FINAL status of an order suggests that the slot is utilized"
+76,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Utilized Appointment Status","AppointmentStatusCD","2",,"The Completed appointment status suggests the slot is utilized"
+77,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Utilized Appointment Status","AppointmentStatusCD","6",,"The Arrived appointment status suggests the slot is utilized"
+78,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Observation","Emergency",
+79,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","ED Observation","Emergency",
+80,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Emergency","Emergency",
+81,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Home Hospital Inpatient","Inpatient",
+82,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Surgery Admit","Inpatient",
+83,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","SNF","Inpatient",
+84,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Newborn","Inpatient",
+85,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Hospice","Inpatient",
+86,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Psych Inpatient","Inpatient",
+87,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Inpatient","Inpatient",
+88,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Residential All Inclusive","Outpatient",
+89,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Residential","Outpatient",
+90,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Cardiac Pulmonary Rehab Series","Outpatient",
+91,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Occupational Therapy Series","Outpatient",
+92,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Day Surgery","Outpatient",
+93,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Monthly Outpatient","Outpatient",
+94,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Speech Therapy Series","Outpatient",
+95,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Home Hospital Observation","Outpatient",
+96,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Multi Day Exam","Outpatient",
+97,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Outpatient","Outpatient",
+98,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Physical Therapy Series","Outpatient",
+99,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Specimen","Outpatient",
+100,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Partial Hospitalization","Outpatient",
+101,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Dialysis Series","Outpatient",
+102,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Infusion Services","Outpatient",
+103,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Partial Outpatient","Outpatient",
+104,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Urgent Care","Outpatient",
+105,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Partial with Boarding","Outpatient",
+106,"2022-11-22 19:36:38.0000000","PARTNERS\mp1020","Patient Class Mapping","PatientClass","Post Procedure Recovery","Outpatient",
